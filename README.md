@@ -4,17 +4,8 @@
 
 This component is powered by [d3graph], a Python package that simplifies the task of creating interactive and stand-alone networks in d3 JavaScript using Python.
 
----
 
-<h3 align="center">
-  🕸️ <a href="https://share.streamlit.io/snehankekre/streamlit-d3graph/main/examples/example.py">Live demo</a> 🕸️
-</h3>
 
----
-
-<p align="center">
-    <a href="https://share.streamlit.io/snehankekre/streamlit-d3graph/main/examples/example.py"><img src="images/demo.png" width=600></a>
-</p>
 
 ## Installation
 
